@@ -1,0 +1,1 @@
+# ideapad-330s-15ikb
