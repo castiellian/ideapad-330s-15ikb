@@ -7,7 +7,7 @@
 
 配置如下：
 
-CPU：i5-8260
+CPU：i5-8260U
 
 主板：Intel Kaby Lake-U + iHDCP 2.2 Premium PCH
 
